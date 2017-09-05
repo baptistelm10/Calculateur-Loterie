@@ -47,6 +47,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Historique2004.cs" />
+    <Compile Include="Historique2005.cs" />
+    <Compile Include="Historique2006.cs" />
+    <Compile Include="Historique2007.cs" />
+    <Compile Include="Historique2008.cs" />
+    <Compile Include="Historique2009.cs" />
+    <Compile Include="Historique2010.cs" />
+    <Compile Include="Historique2011.cs" />
+    <Compile Include="Historique2012.cs" />
+    <Compile Include="Historique2013.cs" />
+    <Compile Include="Historique2014.cs" />
+    <Compile Include="Historique2015.cs" />
+    <Compile Include="Historique2016.cs" />
+    <Compile Include="Historique2017.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
