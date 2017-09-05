@@ -1,0 +1,18 @@
+c:\users\baptiste\documents\visual studio 2015\Projects\Calculateur Loterie\Calculateur Loterie\bin\Debug\Calculateur Loterie.exe.config
+c:\users\baptiste\documents\visual studio 2015\Projects\Calculateur Loterie\Calculateur Loterie\bin\Debug\Calculateur Loterie.exe
+c:\users\baptiste\documents\visual studio 2015\Projects\Calculateur Loterie\Calculateur Loterie\bin\Debug\Calculateur Loterie.pdb
+c:\users\baptiste\documents\visual studio 2015\Projects\Calculateur Loterie\Calculateur Loterie\obj\Debug\Calculateur Loterie.csprojResolveAssemblyReference.cache
+c:\users\baptiste\documents\visual studio 2015\Projects\Calculateur Loterie\Calculateur Loterie\obj\Debug\Calculateur Loterie.exe
+c:\users\baptiste\documents\visual studio 2015\Projects\Calculateur Loterie\Calculateur Loterie\obj\Debug\Calculateur Loterie.pdb
+c:\users\baptiste\documents\visual studio 2015\Projects\Calculateur Loterie\Calculateur Loterie\bin\Debug\HtmlAgilityPack.dll
+c:\users\baptiste\documents\visual studio 2015\Projects\Calculateur Loterie\Calculateur Loterie\bin\Debug\HtmlAgilityPack.pdb
+c:\users\baptiste\documents\visual studio 2015\Projects\Calculateur Loterie\Calculateur Loterie\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Baptiste\Documents\GitHub\Calculateur-Loterie\Calculateur Loterie\bin\Debug\Calculateur Loterie.exe.config
+C:\Users\Baptiste\Documents\GitHub\Calculateur-Loterie\Calculateur Loterie\obj\Debug\Calculateur Loterie.exe
+C:\Users\Baptiste\Documents\GitHub\Calculateur-Loterie\Calculateur Loterie\obj\Debug\Calculateur Loterie.pdb
+C:\Users\Baptiste\Documents\GitHub\Calculateur-Loterie\Calculateur Loterie\bin\Debug\Calculateur Loterie.exe
+C:\Users\Baptiste\Documents\GitHub\Calculateur-Loterie\Calculateur Loterie\bin\Debug\Calculateur Loterie.pdb
+C:\Users\Baptiste\Documents\GitHub\Calculateur-Loterie\Calculateur Loterie\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Baptiste\Documents\GitHub\Calculateur-Loterie\Calculateur Loterie\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Baptiste\Documents\GitHub\Calculateur-Loterie\Calculateur Loterie\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Baptiste\Documents\GitHub\Calculateur-Loterie\Calculateur Loterie\obj\Debug\Calculateur Loterie.csprojResolveAssemblyReference.cache
