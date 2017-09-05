@@ -13,10 +13,18 @@ namespace Calculateur_Loterie
     {
         static void Main(string[] args)
         {
-            /* Euromillion */
+            /* Euromillion
+            
+            A voir les autres jeux
+             
+            */
 
-            Step1(); // Récupération des ariches 2004 - 2017 (stockage fichiers txt)
+            Step1(); // Récupération des ariches 2004 - 2017 (stockage fichiers .txt)
             Step2(); // Analyse des chiffres les plus utilisés
+            Step3(); // Filtrer les combinaisons impossibles
+            Step4(); // Affichage des données (combinaisons)
+
+            Step5(); // Optionnel : Affichage et sauvegarge des derniers tirages pour les prendre en compte
 
 
             Console.WriteLine("\r\nTerminé");
@@ -35,7 +43,23 @@ namespace Calculateur_Loterie
             var node2 = htmlDoc.DocumentNode.SelectSingleNode("//body");
             Console.WriteLine("Balise : " + node2.Name + "\n" + node2.OuterHtml);
         }
+
         public static void Step2()
+        {
+
+        }
+
+        public static void Step3()
+        {
+
+        }
+
+        public static void Step4()
+        {
+
+        }
+
+        public static void Step5()
         {
 
         }
